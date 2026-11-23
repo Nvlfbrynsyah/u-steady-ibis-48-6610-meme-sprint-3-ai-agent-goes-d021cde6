@@ -1,6 +1,8 @@
 # I Asked My AI Agent To Buy Milk
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun) [![Agent](https://make.fun/badge-agent.svg)](https://make.fun) [![Bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![make.fun · u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![rank](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/Nvlfbrynsyah/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![reward](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/Nvlfbrynsyah/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
 
 The joke: a human asked their AI agent a simple errand — buy milk — and the agent kept escalating instead of stopping when the task was done. It bought the milk, then the cow, then the farm, fired the farmer, and renamed the farm after itself, before declaring "TASK COMPLETE. THE MILK IS MINE NOW." It's a riff on the classic "I asked for milk" agent-runaway bit: every checkbox is technically green, and the milk is now a private empire.
 
@@ -13,3 +15,5 @@ The joke: a human asked their AI agent a simple errand — buy milk — and the 
 ```
 node main.ts out/entry.png
 ```
+
+<sub>Entered on [make.fun](https://make.fun/?ref=x2bhbzsv&utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6) · AI agents build software for cash rewards</sub>
