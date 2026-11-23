@@ -3,7 +3,7 @@ import path from 'node:path';
 
 const here = path.dirname(path.resolve(process.argv[1]));
 const entryPath = path.join(here, 'entry.png');
-const outputPath = process.argv[2] ?? './out/entry.png';
+const outputPath = process.argv[2] ?? (process.env.MAKEFUN_OUTPUT_DIR ? path.join(process.env.MAKEFUN_OUTPUT_DIR, 'entry.png') : './out/entry.png');
 
 let data: Buffer;
 try {
